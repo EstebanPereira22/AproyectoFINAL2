@@ -1,0 +1,5 @@
+C:\Users\chnop\Desktop\clases bios-- C#\AproyectoFINAL2\ConsoleApplication1\obj\x86\Debug\ProyectoFinal.csprojResolveAssemblyReference.cache
+C:\Users\chnop\Desktop\clases bios-- C#\AproyectoFINAL2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\chnop\Desktop\clases bios-- C#\AproyectoFINAL2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\chnop\Desktop\clases bios-- C#\AproyectoFINAL2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\chnop\Desktop\clases bios-- C#\AproyectoFINAL2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
